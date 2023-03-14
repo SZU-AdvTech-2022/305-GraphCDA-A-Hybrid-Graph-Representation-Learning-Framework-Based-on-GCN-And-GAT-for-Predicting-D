@@ -1,0 +1,8 @@
+@article{REPO-306,
+    author = "Dai, Qiguo and Liu, Ziqiang and Wang, Zhaowei and Duan, Xiaodong and Guo, Maozu",
+    journal = "Briefings in Bioinformatics",
+    number = "5",
+    title = "{{GraphCDA: A Hybrid Graph Representation Learning Framework Based on GCN And GAT for Predicting Disease-Associated circRNAs}}",
+    volume = "23",
+    year = "2022"
+}
