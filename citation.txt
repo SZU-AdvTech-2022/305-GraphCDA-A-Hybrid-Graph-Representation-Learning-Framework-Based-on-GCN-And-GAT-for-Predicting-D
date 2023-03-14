@@ -1,4 +1,4 @@
-@article{REPO-306,
+@article{REPO-305,
     author = "Dai, Qiguo and Liu, Ziqiang and Wang, Zhaowei and Duan, Xiaodong and Guo, Maozu",
     journal = "Briefings in Bioinformatics",
     number = "5",
